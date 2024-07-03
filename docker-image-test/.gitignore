@@ -35,3 +35,8 @@ out/
 
 ### VS Code ###
 .vscode/
+
+### freaking mac ###
+.DS_Store
+.DS_Stroe/
+*.DS_Store
